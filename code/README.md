@@ -18,7 +18,7 @@ code/
 
 ```bash
 npm ci
-npm i -g @go-to-k/cdkd@0.302.1
+npm i -g @cdkd/cli@0.323.0
 export AWS_PROFILE=<プロファイル名>
 ```
 
